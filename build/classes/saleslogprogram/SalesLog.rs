@@ -1,3 +1,0 @@
-saleslogprogram.Sale
-saleslogprogram.PaymentType
-saleslogprogram.SalesLog
